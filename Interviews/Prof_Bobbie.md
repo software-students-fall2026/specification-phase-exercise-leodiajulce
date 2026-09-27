@@ -10,7 +10,7 @@
   - Uses YouTube links instead of putting videos in slides.
   - Not much experience with AI tools.
 - **User type:** Professor / lecturer
-- **Format:** Interview by Abubakar, in person, 09/23/2026. The professor tried the app and made a slide on "Native Arts and AI".
+- **Format:** Interview by Diallo, in person, 09/23/2026. The professor tried the app and made a slide on "Native Arts and AI".
 ## Observations and Feedback
 **Rating.**
 - The professor gave the app 6.5/10.
