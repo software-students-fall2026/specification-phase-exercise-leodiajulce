@@ -1,11 +1,11 @@
 # Dr. Kaushik Sunder Slide Machine Interview
 ## Stakeholder Bio
 - **Full name:** Dr. Kaushik Sunder
-- **Email:** TODO
-- **School:** NYU Tandon (TODO: confirm)
+- **Email:** ks6192@nyu.edu
+- **School:** NYU CFA 
 - **Background:** Finished his PhD. Now a postdoc at NYU. Not a professor.
-- **User type:** Researcher / possible lecturer
-- **Format:** Interview by Abubakar, TODO: date and in person or Zoom. He tried the app on desktop. Notes from Granola.
+- **User type:** Researcher
+- **Format:** Interview by Diallo, in person, 09/26/2026. He tried the app on desktop.
 ## Observations and Feedback
 **Speech to slides (weakness).**
 - This was his biggest problem.
