@@ -48,11 +48,13 @@ students to my whiteboard*, so that I *can coordinate in-class interactive activ
 
 - As an *instructor*, I want *to see under every peresentation I create weather or not it is private, link-only, and on Discover* so that I can *quickly tell who can see my work*. 
 
-- As an *instructor*, 
+- As an *instructor*, I want *to have a separate folder for image library when uploading my initial documents for the slides* so that *I can choose exactly which photo goes on which slide.*
 
-- 
+- As an *instructur*, I want *to have the ability to insert graphs to my slides after they are genrated* so that *I can make sure my examples are accompanied by the proper visual representation.*
 
-- (?) As an *instructor*, I want *to be able to create a folder that can be access only by people who have the link* so that I can *ensure only my target audience sees my lectures*.
+- As an *instructor*, I want to *have an easily accessible ribbon above the slide deck* so that *I can make changes fast and without having to go through multiple clicks.*
+
+- As an *instructor*, I want *to be able to create a folder that can be access only by people who have the link* so that I can *ensure only my target audience sees my lectures*.
 
 
 #### Students
