@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- Carina-Ana-Maria Ilie, [github](https://github.com/carinutza)
+- Carina-Ana-Maria Ilie, [GitHub](https://github.com/carinutza)
 -
 -
 -
@@ -68,8 +68,19 @@ students to my whiteboard*, so that I *can coordinate in-class interactive activ
 
 - As a *student*, I want to *search and filter lectures by course, subject, instructor, title, and slide content* so that I can *find relevant study material without scrolling through unrelated lectures.*
 
-
 - As a *student* I want to *be able to pin folders* so that I *can access them easily from the home page*.
+
+- As a *student*, I want to *bookmark individual slides within a lecture* so that I *can quickly return to important concepts when studying.*
+
+- As a *student*, I want *to see which slide is currently being discussed in the downloaded transcript* so that I *can connect the instructor’s explanation with the correct slide.*
+
+- As a *student*, I want an *easily accessible downalod button* so that I can *export every lecture as a PDF.*
+
+- As a *student*, I want to *see my recently viewed silides first in the search bar* so that I *can access them faster when trying to search for them.*
+
+- As a *student*, I want the *presentation to remember which slide I was viewing last* sp that I can *continue studying where I left off.*
+
+- As a *student*, I want to *be able to pin and see all of the folder that I have been invited to in one place on the home screen* so that I can *organize all my courses and view their materials easily.*
 
 ## Activity Diagrams
 
