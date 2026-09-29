@@ -302,6 +302,8 @@ Check out [feature_list.md](feature_list.md) for a detailed description of all o
 
 ## Activity Diagrams
 
+[Link to view the activity diagrams in FigJam!](https://www.figma.com/board/3G39vgogN5xX8xxPGmeRUp)
+
 #### Instructors
 
 **1. Auto-pause while recording**
