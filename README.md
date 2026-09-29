@@ -42,6 +42,8 @@ We checked Future Work (§18) abd Open Questions (§19) in the Software Design D
 
 ## Stakeholders
 
+For transcripts of interviews, checkout [this folder](Interviews/)
+
 #### Stakeholder: Prof A.M. (instructor)
 
 *Goals & Needs*
@@ -293,6 +295,10 @@ students to my whiteboard*, so that I *can coordinate in-class interactive activ
 - As a *student*, I want the *presentation to remember which slide I was viewing last* sp that I can *continue studying where I left off.*
 
 - As a *student*, I want to *be able to pin and see all of the folder that I have been invited to in one place on the home screen* so that I can *organize all my courses and view their materials easily.*
+
+## Features
+
+Check out [feature_list.md](feature_list.md) for a detailed description of all of the features we implimented, as well as a list of honorable mentions!
 
 ## Activity Diagrams
 
