@@ -6,8 +6,8 @@ A little exercise to get started with the specification phase of the software de
 
 - Carina-Ana-Maria Ilie, [GitHub](https://github.com/carinutza)
 - Leonid (Leo) Gurevich, [GitHub](https://github.com/Leonid2004)
--
--
+- Abubakar Diallo, [GitHub](https://github.com/Dialloni)
+- Julian Leitersdorf, [GitHub](https://github.com/Jrleitersdorf)
 
 ## Review of the Current Application
 
