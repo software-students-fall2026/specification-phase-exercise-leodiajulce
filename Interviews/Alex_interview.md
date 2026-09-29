@@ -1,7 +1,6 @@
 # Alex Slide Machine Interview
 ## Stakeholder Bio
-- **Full name:** Alexander Hrycyszyn
-- **Email:** avh9745@nyu.edu
+
 - **Age:** 22
 - **School:** NYU; senior, studying economics
 - **Background:** Friend of Julian's. Not in Julian's SE course.

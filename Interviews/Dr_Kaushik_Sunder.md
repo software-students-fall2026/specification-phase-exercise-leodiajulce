@@ -1,7 +1,6 @@
 # Dr. Kaushik Sunder Slide Machine Interview
 ## Stakeholder Bio
-- **Full name:** Dr. Kaushik Sunder
-- **Email:** ks6192@nyu.edu
+
 - **School:** NYU CFA 
 - **Background:** Finished his PhD. Now a postdoc at NYU. Not a professor.
 - **User type:** Researcher
