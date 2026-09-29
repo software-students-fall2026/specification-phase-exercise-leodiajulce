@@ -300,7 +300,9 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+[Check out our wire frames in PDF format!](wireframes/)
+
+[Link to view the wire frames in Figma!](https://www.figma.com/design/mlf8u95E7CA0X92tNmsISR/Leojuice?node-id=24-2615&t=vB9ZM69wefO0HPLa-1)
 
 ## Clickable Prototype
 
