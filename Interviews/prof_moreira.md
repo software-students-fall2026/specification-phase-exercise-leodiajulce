@@ -1,7 +1,6 @@
 # Alan Moreira Slide Machine Interview
 ## Stakeholder Bio
-- **Full name:** Prof. Alan Moreira
-- **Email:** alan.moreira@nyu.edu
+
 - **Background:** Professor of Finance at NYU; teaches Data Driven Investing w AI & Python
 - **User type:** Professor
 - **Format:** In person, 2026-09-23. 

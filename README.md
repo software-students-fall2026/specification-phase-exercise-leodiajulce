@@ -40,8 +40,6 @@ A little exercise to get started with the specification phase of the software de
 We checked Future Work (§18) abd Open Questions (§19) in the Software Design Document and the delivery roadmap including its risks and cut line. Two things we considered turned out to be taken: the MCP interface for outside AI assistants, which is listed as future work, and is already live in the app, allowing to be used as a connector, and pulling quiz answers back into the app. Everything that we actually propose is new. We are also not claiming bug fixes as our proposals: the missing account-type question and unreliable search bugs in the existing features, so we filled them as issues instead of proposing them as new work.
 
 
-
-
 ## Stakeholders
 
 #### Stakeholder: Prof A.M. (instructor)
@@ -306,7 +304,7 @@ See instructions. Delete this line and place your wireframe diagrams here, cover
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Link to our clickable prototye: [clickable prototype](https://www.figma.com/proto/mlf8u95E7CA0X92tNmsISR/Leojuice?node-id=16-794&p=f&t=XrNkxpCda7IyMjr6-1&scaling=scale-down&content-scaling=fixed&page-id=24%3A2615&starting-point-node-id=16%3A753&show-proto-sidebar=1)
 
 ## Stakeholder Demo
 
