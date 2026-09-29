@@ -302,7 +302,35 @@ Check out [feature_list.md](feature_list.md) for a detailed description of all o
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+[Link to view the activity diagrams in FigJam!](https://www.figma.com/board/3G39vgogN5xX8xxPGmeRUp)
+
+#### Instructors
+
+**1. Auto-pause while recording**
+
+As an *instructor*, I want *AI live transcription to automatically pause when the lecture tab is inactive or no speech is detected*, so that I *do not accidentally consume my plan allowance when I am no longer presenting*.
+
+![Activity diagram: instructor auto-pause while recording](activity_diagrams/1_instructor_auto_pause.png)
+
+**2. Publish a lecture (private by default)**
+
+As an *instructor*, I want *every new lecture to be defaulted to private* so that *unfinished or test lectures are not accidentally visible to students or in Discover*.
+
+![Activity diagram: instructor publishes a lecture, private by default](activity_diagrams/2_instructor_publish_private.png)
+
+#### Students
+
+**3. Download a lecture transcript**
+
+As a *student*, I want to *download a transcript of the presentation* so that *I can use it to generate my own notes to study*.
+
+![Activity diagram: student downloads a lecture transcript](activity_diagrams/3_student_download_transcript.png)
+
+**4. Pin a folder to the home page**
+
+As a *student*, I want to *be able to pin and see all of the folder that I have been invited to in one place on the home screen* so that I can *organize all my courses and view their materials easily.*
+
+![Activity diagram: student pins a folder to the home page](activity_diagrams/4_student_pin_folder.png)
 
 ## Wireframes
 
