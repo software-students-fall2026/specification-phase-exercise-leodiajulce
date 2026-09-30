@@ -1,7 +1,6 @@
 # Prof. Bobbie Slide Machine Interview
 ## Stakeholder Bio
-- **Full name:** Prof. Bobbie Chew Bigby
-- **Email:** bcb5403@nyu.edu
+
 - **School:** NYU-TULSA
 - **Background:**
   - Has used PowerPoint for a long time.

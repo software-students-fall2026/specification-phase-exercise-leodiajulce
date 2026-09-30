@@ -6,8 +6,8 @@ A little exercise to get started with the specification phase of the software de
 
 - Carina-Ana-Maria Ilie, [GitHub](https://github.com/carinutza)
 - Leonid (Leo) Gurevich, [GitHub](https://github.com/Leonid2004)
--
--
+- Abubakar Diallo, [GitHub](https://github.com/Dialloni)
+- Julian Leitersdorf, [GitHub](https://github.com/Jrleitersdorf)
 
 ## Review of the Current Application
 
@@ -40,9 +40,9 @@ A little exercise to get started with the specification phase of the software de
 We checked Future Work (§18) abd Open Questions (§19) in the Software Design Document and the delivery roadmap including its risks and cut line. Two things we considered turned out to be taken: the MCP interface for outside AI assistants, which is listed as future work, and is already live in the app, allowing to be used as a connector, and pulling quiz answers back into the app. Everything that we actually propose is new. We are also not claiming bug fixes as our proposals: the missing account-type question and unreliable search bugs in the existing features, so we filled them as issues instead of proposing them as new work.
 
 
-
-
 ## Stakeholders
+
+For transcripts of interviews, checkout [this folder](Interviews/)
 
 #### Stakeholder: Prof A.M. (instructor)
 
@@ -237,7 +237,7 @@ On positioning, he was clear and unprompted. He judged the application strongest
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our contribution keeps the instructor in control of a lecture from the first word they speak to the moment they publish it, and hands the finished lecture to students in a form they can organize, keep, and study from.
 
 ## User Requirements
 
@@ -296,17 +296,51 @@ students to my whiteboard*, so that I *can coordinate in-class interactive activ
 
 - As a *student*, I want to *be able to pin and see all of the folder that I have been invited to in one place on the home screen* so that I can *organize all my courses and view their materials easily.*
 
+## Features
+
+Check out [feature_list.md](feature_list.md) for a detailed description of all of the features we implimented, as well as a list of honorable mentions!
+
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+[Link to view the activity diagrams in FigJam!](https://www.figma.com/board/3G39vgogN5xX8xxPGmeRUp)
+
+#### Instructors
+
+**1. Auto-pause while recording**
+
+As an *instructor*, I want *AI live transcription to automatically pause when the lecture tab is inactive or no speech is detected*, so that I *do not accidentally consume my plan allowance when I am no longer presenting*.
+
+![Activity diagram: instructor auto-pause while recording](activity_diagrams/1_instructor_auto_pause.png)
+
+**2. Publish a lecture (private by default)**
+
+As an *instructor*, I want *every new lecture to be defaulted to private* so that *unfinished or test lectures are not accidentally visible to students or in Discover*.
+
+![Activity diagram: instructor publishes a lecture, private by default](activity_diagrams/2_instructor_publish_private.png)
+
+#### Students
+
+**3. Download a lecture transcript**
+
+As a *student*, I want to *download a transcript of the presentation* so that *I can use it to generate my own notes to study*.
+
+![Activity diagram: student downloads a lecture transcript](activity_diagrams/3_student_download_transcript.png)
+
+**4. Pin a folder to the home page**
+
+As a *student*, I want to *be able to pin and see all of the folder that I have been invited to in one place on the home screen* so that I can *organize all my courses and view their materials easily.*
+
+![Activity diagram: student pins a folder to the home page](activity_diagrams/4_student_pin_folder.png)
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+[Check out our wire frames in PDF format!](wireframes/)
+
+[Link to view the wire frames in Figma!](https://www.figma.com/design/mlf8u95E7CA0X92tNmsISR/Leojuice?node-id=24-2615&t=vB9ZM69wefO0HPLa-1)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Link to our clickable prototye: [clickable prototype](https://www.figma.com/proto/mlf8u95E7CA0X92tNmsISR/Leojuice?node-id=16-794&p=f&t=XrNkxpCda7IyMjr6-1&scaling=scale-down&content-scaling=fixed&page-id=24%3A2615&starting-point-node-id=16%3A753&show-proto-sidebar=1)
 
 ## Stakeholder Demo
 

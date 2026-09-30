@@ -1,7 +1,6 @@
 # Ilyas Slide Machine Interview:
 ## Stakeholder Bio
-- **Full name:** Ilyas Mazouz
-- **Email:** ilyasmazouz0911@gmail.com
+
 - **Age:** 20
 - **School:** Pratt Institute, New York; junior, studying film
 - **Background:** Friend of Julian's. Worked at the creative design agency Lemon for a little over a year, where he gave presentations every few weeks.
