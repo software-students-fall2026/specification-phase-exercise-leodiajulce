@@ -237,7 +237,7 @@ On positioning, he was clear and unprompted. He judged the application strongest
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our contribution keeps the instructor in control of a lecture from the first word they speak to the moment they publish it, and hands the finished lecture to students in a form they can organize, keep, and study from.
 
 ## User Requirements
 
