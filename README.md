@@ -237,7 +237,9 @@ On positioning, he was clear and unprompted. He judged the application strongest
 
 ## Product Vision Statement
 
-Our contribution keeps the instructor in control of a lecture from the first word they speak to the moment they publish it, and hands the finished lecture to students in a form they can organize, keep, and study from.
+Our contribution keeps the instructor in control of a lecture from the first word they speak to the moment they publish it, and hands the finished lecture to students in a form they can organize, keep, and study from. 
+both ui/ux better 
+- 
 
 ## User Requirements
 
@@ -344,8 +346,8 @@ Link to our clickable prototye: [clickable prototype](https://www.figma.com/prot
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+Check out our [stakeholder demo.](https://theslidemachine.com/d/untitled-c79350be)
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+Check out out our [exit ticket quiz.](https://docs.google.com/forms/d/e/1FAIpQLSehXiPlh0mVXUqZZWJacWMTYcOP427bfpXstBh7zBIgXU7IIQ/viewform)
